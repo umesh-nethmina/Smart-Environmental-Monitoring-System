@@ -45,7 +45,6 @@ It works completely on **solar power with a Li-ion battery pack**, making it sui
 <img width="639" height="776" alt="image" src="https://github.com/user-attachments/assets/0ce96295-c7c1-4d30-8f65-6704f1910272" />
 <img width="646" height="861" alt="image" src="https://github.com/user-attachments/assets/defddd80-ed62-4ebf-96a6-ea2ba2b625a2" />
 <img width="633" height="845" alt="image" src="https://github.com/user-attachments/assets/5ad245bb-9296-4012-853f-071253e8ca57" />
-<img width="1336" height="749" alt="image" src="https://github.com/user-attachments/assets/50298cff-0c12-4c58-b176-efb48a645060" />
 
 ---
 
