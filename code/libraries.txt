@@ -1,0 +1,41 @@
+# Arduino/ESP32 Libraries Required for Environmental Monitoring Project
+
+1. Wire
+   - Built-in Arduino I2C library
+   - Used for: AHT10, BMP280, DS3231 RTC
+
+2. Adafruit AHTX0
+   - Header: Adafruit_AHTX0.h
+   - Supports AHT10 and AHT20 temperature & humidity sensors
+   - Arduino Library Manager: "Adafruit AHTX0"
+
+3. Adafruit BMP280
+   - Header: Adafruit_BMP280.h
+   - For BMP280 barometric pressure sensor
+   - Arduino Library Manager: "Adafruit BMP280 Library"
+
+4. SPI
+   - Built-in Arduino SPI library
+   - Used for W25Q128 SPI flash memory
+
+5. SPIFlash
+   - Header: SPIMemory.h
+   - For W25Q128 SPI flash memory
+   - Arduino Library Manager: "SPIFlash"
+
+6. RTClib
+   - Header: RTClib.h
+   - For DS3231 real-time clock
+   - Arduino Library Manager: "RTClib by Adafruit"
+
+7. SoftwareSerial
+   - Built-in Arduino library
+   - Used for SIM900A GSM module communication
+
+8. HardwareSerial
+   - Built-in ESP32 library
+   - Used for PMS5003 and MH-Z19C serial communication
+
+9. math.h
+   - Standard C math library
+   - Used for calculations (e.g., CO ppm calculation with pow())
